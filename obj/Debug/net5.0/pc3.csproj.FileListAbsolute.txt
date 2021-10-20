@@ -1,0 +1,144 @@
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\appsettings.Development.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\appsettings.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.exe
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.deps.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.runtimeconfig.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.runtimeconfig.dev.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\ref\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.Views.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\pc3.Views.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Humanizer.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\MySqlConnector.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.csproj.AssemblyReference.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.GeneratedMSBuildEditorConfig.editorconfig
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.AssemblyInfoInputs.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.AssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.csproj.CoreCompileInputs.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.MvcApplicationPartsAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\scopedcss\bundle\pc3.styles.css
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\staticwebassets\pc3.StaticWebAssets.Manifest.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.TagHelpers.input.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.TagHelpers.output.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.RazorCoreGenerate.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\Home\Compra.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.Views.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.csproj.CopyComplete
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\ref\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\aaahh\obj\Debug\net5.0\pc3.genruntimeconfig.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\appsettings.Development.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\appsettings.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.exe
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.deps.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.runtimeconfig.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.runtimeconfig.dev.json
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\ref\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.Views.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\pc3.Views.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Humanizer.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\MySqlConnector.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.csproj.AssemblyReference.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.GeneratedMSBuildEditorConfig.editorconfig
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.AssemblyInfoInputs.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.AssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.csproj.CoreCompileInputs.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.MvcApplicationPartsAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\scopedcss\bundle\pc3.styles.css
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\staticwebassets\pc3.StaticWebAssets.Manifest.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.TagHelpers.input.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.TagHelpers.output.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.RazorCoreGenerate.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\Home\Compra.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cs
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.Views.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\ref\pc3.dll
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.pdb
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.genruntimeconfig.cache
+D:\6to Ciclo - Yamil Elias\Programación I\proyectos-teoricos\PC-03\obj\Debug\net5.0\pc3.csproj.CopyComplete
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\appsettings.json
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.exe
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.deps.json
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.runtimeconfig.json
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.runtimeconfig.dev.json
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\ref\pc3.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.pdb
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.Views.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\pc3.Views.pdb
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Humanizer.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\arpas\Desktop\PC-03\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.csproj.AssemblyReference.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.AssemblyInfoInputs.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.AssemblyInfo.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.csproj.CoreCompileInputs.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.RazorAssemblyInfo.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\scopedcss\bundle\pc3.styles.css
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\staticwebassets\pc3.StaticWebAssets.Manifest.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.TagHelpers.input.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.TagHelpers.output.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.RazorCoreGenerate.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\Home\Compra.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cache
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.RazorTargetAssemblyInfo.cs
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.Views.pdb
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.csproj.CopyComplete
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.dll
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\ref\pc3.dll
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.pdb
+C:\Users\arpas\Desktop\PC-03\obj\Debug\net5.0\pc3.genruntimeconfig.cache
